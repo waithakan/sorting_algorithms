@@ -66,7 +66,7 @@ void quicksort(int *array, ssize_t lo, ssize_t hi, size_t size)
 /**
  * quick_sort - sort an array of integers in ascending order using the
  * Quick sort algorithms
- * 
+ *
  * @array: The array to be sorted
  * @size: The sizes of the array
  * Return: void
